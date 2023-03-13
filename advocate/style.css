@@ -1,0 +1,97 @@
+/* *{
+    font-family:  'Brush Script MT', cursive;
+} */
+.bg-clor{
+    background-color:#151225;
+}
+.toggol-clr{
+    background-color: rgb(228, 171, 171);
+}
+.slide-font{
+    color: rgb(242, 235, 223);
+}
+.n-title{
+    color: rgb(78, 20, 237);
+    font-size: 60px;
+    font-weight: 1000;
+}
+.nav-fnt{
+    color: rgb(209, 233, 233);
+    font-size: 20px;
+    font-weight: 700;
+}
+/* .nav-height{
+    background-color: rgb(81, 81, 92);
+} */
+/* .carousell-clor{
+  background-image: url(image/slide1.png);
+  background-repeat: no-repeat;
+} */
+.about-me{
+    color: rgb(122, 122, 199);
+    /* text-decoration: underline; */
+    font-family:  'Brush Script MT', cursive;
+}
+.font-sylt{
+    /* font-family: 'Brush Script MT', cursive; */
+    font-weight: 600;
+    font-size: 19px;
+}
+.about-pone{
+    color: rgb(153, 140, 140);
+} 
+ .about-adv{
+    color: rgb(120, 119, 119);
+}
+/* .about-bg{
+    background-image: url(image/footer-bg.png), linear-gradient(rgba(27, 26, 26, 0.5),rgba(28, 26, 26, 0.8));
+} */
+.text-col{
+    color: rgb(246, 235, 235);
+}
+.span-textcolor{
+    color: aquamarine;
+}
+.edu-font{
+    font-size: 18px;
+    font-weight: 500;
+}
+/* .edu-bg{
+    background-image: url(image/gradient1.png),linear-gradient(rgba(27, 26, 26, 0.5),rgba(12, 102, 237, 0.8)); 
+    background-repeat: no-repeat;
+    height: auto ;
+} */
+/* .train-bg{
+    background-image: url(image/gradient3.png),linear-gradient(rgba(65, 63, 63, 0.5),rgba(65, 41, 20, 0.8)); 
+    background-repeat: no-repeat;
+    height: auto ;
+} */
+/* .career-bg{
+    background-image: url(image/gradient2.png),linear-gradient(rgba(27, 26, 26, 0.5),rgba(21, 21, 23, 0.8)); 
+    
+    background-repeat: no-repeat;
+    height: auto ;
+} */
+/* .edubanner{
+    background-image: url(image/edubanner1.png),linear-gradient(rgba(27, 26, 26, 0.5),rgba(21, 24, 57, 0.8)); 
+    
+    background-repeat: no-repeat;
+    height: auto ;
+} */
+.foter-syle{
+    color: rgb(238, 234, 234);
+    font-size: 15px;
+    font-weight: 500;
+}
+.copy-wrt{
+    color: red;
+    font-size: 20px;
+    font-weight: 700;
+}
+.btncolor{
+    background-color: rgb(75, 84, 81);
+    color: beige ;
+}
+.edu-text{
+    font-size:30px ;
+}
